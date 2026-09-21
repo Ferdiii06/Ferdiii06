@@ -4,7 +4,7 @@
 
 # Hi, I'm Ferry Ferdiansyah 👋
 
-### Full-Stack & Mobile Developer · Software Engineer Intern
+### Full-Stack & Mobile Developer · Software Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+production-ready+apps+with+Laravel+%26+Next.js;Shipping+cross-platform+mobile+apps+with+Flutter;Designing+clean+REST+APIs+and+dashboards;Turning+ideas+into+products+people+actually+use" alt="Typing SVG" />
 
