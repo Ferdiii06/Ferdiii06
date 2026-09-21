@@ -1,29 +1,27 @@
 <div align="center">
 
-<img src="./videoframecat_3627.gif" alt="Coding Cat" width="300">
+<img src="./videoframecat_3627.gif" alt="Coding Cat" width="220">
 
-# Hi there, I'm Ferdiii06 👋
+# Hi, I'm Ferry Ferdiansyah 👋
 
-### 🚀 Software Engineer Intern • Full-Stack Developer • Mobile App Developer
+### Full-Stack & Mobile Developer · Software Engineer Intern
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Laravel+%26+Next.js;Crafting+mobile+experiences+with+Flutter;Turning+ideas+into+functional+products;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+production-ready+apps+with+Laravel+%26+Next.js;Shipping+cross-platform+mobile+apps+with+Flutter;Designing+clean+REST+APIs+and+dashboards;Turning+ideas+into+products+people+actually+use" alt="Typing SVG" />
 
-Building web applications and mobile experiences while continuously learning and improving my development skills.
-I'm passionate about turning ideas into functional, user-friendly, and meaningful digital experiences.
+Informatics Engineering student and Software Engineer Intern based in Surabaya, Indonesia 🇮🇩.
+I build web dashboards, REST APIs, and Flutter apps for real-world operations, with a focus on clean code and a good user experience.
 
 <p align="center">
-  <a href="mailto:ferdiferdiansyah957@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ferdiii_f">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://ferdiansyah.web.id">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="mailto:ferdiferdiansyah957@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ferdiansyah.web.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ferdiii_f"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Remote_Collaboration-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Surabaya%2C_Indonesia_(UTC%2B7)-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Ferdiii06&label=Profile+views&color=0e75b6&style=flat-square" />
 </p>
 
 </div>
@@ -32,26 +30,14 @@ I'm passionate about turning ideas into functional, user-friendly, and meaningfu
 
 ## 👨‍💻 About Me
 
-```yaml
-name: "Ferry Ferdiansyah"
-role: "Software Engineer | Full-Stack Developer | Mobile App Developer"
-education: "Informatics Engineering, Electronic Engineering Polytechnic of Surabaya"
-location: "Surabaya, Indonesia 🇮🇩"
-
-focus:
-  - Developing mobile applications with Flutter for real-world field operations
-  - Building web applications and dashboards with Laravel and REST APIs
-  - Designing modern, responsive websites with Next.js and Tailwind CSS
-  - Designing intuitive user interfaces and seamless user experiences (UI/UX)
-  - Continuously learning and improving software development skills
-
-currently:
-  - 🔭 Working on real-world Flutter & Laravel projects
-  - 🌱 Leveling up my Next.js and system design skills
-  - 👯 Open to collaborate on web & mobile projects
-  - 💬 Ask me about Flutter, Laravel, Next.js, or REST APIs
-  - ⚡ Fun fact: I debug better with coffee ☕
-```
+- 🎓 Informatics Engineering student at **Electronic Engineering Polytechnic Institute of Surabaya (PENS)**
+- 💼 Software Engineer Intern working on real-world **Flutter** and **Laravel** projects <!-- TODO: add company/team name and one concrete result, e.g. "built X used by Y" -->
+- 📱 Building mobile apps with Flutter for field operations
+- 🌐 Building web apps and dashboards with Laravel, REST APIs, and Next.js
+- 🌱 Currently leveling up in **Next.js** and **system design**
+- 🤝 Open to internships, freelance work, and remote collaboration
+- 💬 Ask me about: Flutter, Laravel, Next.js, REST APIs
+- ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
@@ -59,26 +45,72 @@ currently:
 
 <div align="center">
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,js,ts,nextjs,tailwind,git,github,postman,figma,vscode&perline=7" alt="Tech stack" />
 
 </div>
+
+| Area | Tools |
+|---|---|
+| **Mobile** | Flutter, Dart |
+| **Backend** | Laravel, PHP, REST APIs |
+| **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Design & Tools** | Figma, Git, GitHub, Postman, VS Code |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+      <p align="center">My personal portfolio showcasing my profile, skills, and experience as a software engineer.</p>
+      <p align="center">
+        <a href="https://ferdiansyah.web.id"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍💻 Grizzly — Freelance Dev Services</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p align="center">A platform offering freelance software development: full-stack web, mobile apps, and database design.</p>
+      <p align="center">
+        <a href="https://website-joki-grizzly.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Athlos AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="center">An AI-powered web app designed to help users get everyday work and tasks done faster.</p>
+      <p align="center">
+        <a href="https://athlos-ai-sepia.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛋️ Urban Unit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/E--commerce-38B2AC?style=flat-square" />
+      </p>
+      <p align="center">An e-commerce website for elegant, modern furniture.</p>
+      <p align="center">
+        <a href="https://urban-unit-lvko.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-181717?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <!-- TODO: add a "Source Code" button linking to the real repo -->
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+> 💡 More projects are available on my [repositories page](https://github.com/Ferdiii06?tab=repositories).
 
 ---
 
@@ -86,73 +118,11 @@ currently:
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Ferdiii06?style=for-the-badge&color=blue&label=Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ferdiii06)
-<img src="https://streak-stats.demolab.com?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
+<img height="165" src="https://streak-stats.demolab.com?user=Ferdiii06&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
----
-
-## 🚀 Featured Projects
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Portofolio Personal</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/github/last-commit/Ferdiii06/portalberita?style=flat-square&color=blue" />
-      </p>
-      <p align="center">Website portofolio pribadi berisi profil, keahlian, dan pengalaman saya sebagai software engineer.</p>
-      <p align="center">
-        <a href="https://ferdiansyah.web.id">
-          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Joki Grizzly</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/github/last-commit/Ferdiii06/portofolio2025?style=flat-square&color=blue" />
-      </p>
-      <p align="center">Platform jasa pengerjaan coding: full-stack development, mobile app development, dan database.</p>
-      <p align="center">
-        <a href="https://website-joki-grizzly.vercel.app">
-          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Athlos AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/github/last-commit/Ferdiii06/TugasWebDesa?style=flat-square&color=blue" />
-      </p>
-      <p align="center">Website berbasis AI bernama Athlos, dirancang untuk membantu menyelesaikan pekerjaan maupun tugas sehari-hari.</p>
-      <p align="center">
-        <a href="https://athlos-ai-sepia.vercel.app">
-          <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Urban unit</h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/last-commit/Ferdiii06/SisOp-2025?style=flat-square&color=blue" />
-      </p>
-      <p align="center">Sebuah website e-commerce yang menjual berbagai furniture yang elegan.</p>
-      <p align="center">
-        <a href="https://urban-unit-lvko.vercel.app/">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 </div>
 
 ---
@@ -161,31 +131,23 @@ currently:
 
 <div align="center">
 
-<img src="./contribution-graph.png" alt="Contribution Graph" width="800" style="border-radius: 10px; border: 1px solid #30363d;"/>
-
-<sub>🗓️ Terakhir diperbarui: <b>September 2026</b> — update manual setiap beberapa bulan</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferdiii06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </div>
 
 ---
-### 📫 Let's Connect!
 
-Punya ide proyek, tertarik kolaborasi, atau sekadar mau ngobrol soal teknologi?  
-Jangan ragu untuk menghubungi saya — saya selalu terbuka untuk peluang baru! 🚀
+## 📫 Let's Connect
+
+Have a project idea, an internship opening, or just want to talk tech? I'd love to hear from you.
 
 <p align="center">
-  <a href="mailto:ferdiferdiansyah957@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:ferdiferdiansyah957@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<br>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="footer wave" width="100%"/>
 
-<sub>⭐️ Thanks for visiting my profile — feel free to star my repos if you find them useful!</sub>
-
+<div align="center">
+<sub>⭐ Thanks for visiting my profile. Feel free to star a repo if you find it useful!</sub>
 </div>
