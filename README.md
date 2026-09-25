@@ -45,7 +45,7 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,js,ts,nextjs,tailwind,git,github,postman,figma,vscode&perline=7" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,php,laravel,react,js,ts,nextjs,tailwind,git,github,postman,figma,vscode&perline=7" alt="Tech stack" />
 
 </div>
 
@@ -53,7 +53,7 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 |---|---|
 | **Mobile** | Flutter, Dart |
 | **Backend** | Laravel, PHP, REST APIs |
-| **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Design & Tools** | Figma, Git, GitHub, Postman, VS Code |
 
 <br>
