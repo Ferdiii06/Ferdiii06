@@ -53,7 +53,7 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 |---|---|
 | **Mobile** | Flutter, Dart |
 | **Backend** | Laravel, PHP, REST APIs |
-| **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Design & Tools** | Figma, Git, GitHub, Postman, VS Code |
 
 <br>
@@ -83,12 +83,6 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 
 ## ðŸ“Š GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 <div align="center">
 
