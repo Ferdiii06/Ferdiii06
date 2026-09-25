@@ -53,7 +53,7 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations �
 |---|---|
 | **Mobile** | Flutter, Dart |
 | **Backend** | Laravel, PHP, REST APIs |
-| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Frontend** | Next.js, TypeScript, JavaScript, Tailwind CSS |
 | **Design & Tools** | Figma, Git, GitHub, Postman, VS Code |
 
 <br>
@@ -71,6 +71,20 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations �
 
 <br>
 
+## 🏅 Certifications & Achievements
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| AI Productivity and AI API Integration for Developers | Hacktiv8 · Maju Bareng AI | May 2026 |
+| [Belajar Dasar Pemrograman Web](https://dicoding.com/certificates/1RXYDNW9MXVM) | Dicoding | Aug 2026 |
+| Transition to a Modern Supply Chain: Resilience, AI, and Future-Ready Talent | TransTRACK Academy | Jul 2026 |
+| Bikin Website dari Nol Sampai Online dengan AI (Webinar) | Dewabiz × JelajahKode | May 2026 |
+| [Introduction to Financial Literacy](https://dicoding.com/certificates/98XW8W0DWPM3) | Dicoding | Aug 2026 |
+| METC Soft Skill Series #2 — Beyond Coding: Soft Skills Every Tech Talent Needs to Grow | Dicoding Event × Microsoft Elevate Training Center | May 2026 |
+| SQL Basics Class | NordEdu | 2026 |
+
+<br>
+
 ## 📈 GitHub Metrics
 
 <div align="center">
@@ -83,6 +97,12 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations �
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 <div align="center">
 
