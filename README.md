@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./catmoon.jpg" alt="Ferry Ferdiansyah" width="200" style="border-radius: 50%;">
+<img src="./catmoon.jpg" alt="Ferry Ferdiansyah" width="260" style="border-radius: 50%;">
 
 # Hi there, I'm Ferry Ferdiansyah ðŸ‘‹
 
@@ -13,7 +13,7 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 
 <p>
   <a href="mailto:ferdiferdiansyah957@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ferryferdiansyah51"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ferry-ferdiansyah51/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ferdiansyah.web.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.instagram.com/ferdiii_f"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -114,6 +114,13 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations â€
 <br>
 
 ## ðŸ“Š GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferdiii06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdiii06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 <div align="center">
 
