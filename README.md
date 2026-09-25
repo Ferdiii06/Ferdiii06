@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./videoframecat_3627.gif" alt="Coding Cat" width="200">
+<img src="./catmoon.jpg" alt="Ferry Ferdiansyah" width="200" style="border-radius: 50%;">
 
 # Hi there, I'm Ferry Ferdiansyah 👋
 
