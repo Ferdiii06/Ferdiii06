@@ -64,8 +64,8 @@ I build web dashboards, REST APIs, and Flutter apps for real-world operations �
 |---|---|---|---|
 | 🌐 **Personal Portfolio** | React.js · Tailwind CSS · GSAP | My personal portfolio showcasing my profile, skills, projects, and experience as a software developer. | [Live Demo](https://ferdiansyah.web.id) |
 | 🧑‍💻 **Grizzly — Freelance Dev Services** | React.js · Tailwind CSS v4 · GSAP | A platform offering freelance software development services, including full-stack web, mobile apps, and database design. | [Live Demo](https://website-joki-grizzly.vercel.app) |
-| 🤖 **Athlos AI** | HTML | An AI-powered web app designed to help users get everyday work and tasks done faster. | [Live Demo](https://athlos-ai-sepia.vercel.app) |
-| 🛋️ **Urban Unit** | E-commerce | An e-commerce website for elegant, modern furniture. | [Live Demo](https://urban-unit-lvko.vercel.app/) |
+| 🤖 **Athlos AI** | Next.js · JavaScript · GSAP · Tailwind CSS v4 | An AI-powered web app designed to help users get everyday work and tasks done faster. | [Live Demo](https://athlos-ai-sepia.vercel.app) |
+| 📰 **Insight News** | React.js · Prisma · GSAP · Tailwind CSS v4 | A news portal web app. | [Live Demo](https://portalberita-nextjs.vercel.app/) |
 
 > 💡 More projects are available on my [repositories page](https://github.com/Ferdiii06?tab=repositories).
 
